@@ -21,4 +21,4 @@ Este repositorio contiene los códigos utilizados para la extracción, preproces
 
 ### Lucia Ochoa
 - **Email:** [ochoa.lucia@pucp.edu.pe](mailto:ochoa.lucia@pucp.edu.pe)
-- **GitHub Profile:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
+- **GitHub Profile:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Luci8as)
