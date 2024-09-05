@@ -2,7 +2,7 @@
 Este repositorio contiene los códigos utilizados para la extracción, preprocesamiento y análisis de datos para la Datatón "Exprésate con Datos Perú 2024" organizada por la Presidencia del Consejo de Ministros de Perú.  
 
 ## 📚 Estructura
-- **📅 codigos:** Contiene los codigos utilizados, en formato jupyter.
+- **📅 codigos:** Los codigos utilizados, en formato jupyter.
   - `01_Extraccion_Datos`: Se extrae la base de datos directamente la página web mediante web scrapping utilizando la librería sellenium.
   - `02_Preprocesamiento`: Se limpia la base y crean nuevas columnas con variables categoricas para un análisis más profundo.
   - `03_Analisis_Exploratorio`: Se hace un análisis visual de las variables categóricas y dicotómicas.
