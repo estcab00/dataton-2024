@@ -1,5 +1,7 @@
 # Dataton: Exprésate con Datos Perú 2024
-Este repositorio contiene los códigos utilizados para la extracción, preprocesamiento y análisis de datos para la Datatón "Exprésate con Datos Perú 2024" organizada por la Presidencia del Consejo de Ministros de Perú.  
+Este repositorio contiene los códigos utilizados para la extracción, preprocesamiento y análisis de datos para la Datatón "Exprésate con Datos Perú 2024" organizada por la Presidencia del Consejo de Ministros de Perú.
+El proyecto final se encuentra disponible aquí:
+- 📊 Tablero Power BI: https://lnkd.in/eyCudCPs
 
 ## 📚 Estructura
 - **📅 codigos:** Los codigos utilizados, en formato jupyter.
